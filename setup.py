@@ -4,7 +4,7 @@ from distutils.core import setup
 
 setup(
     name='zipdop',
-    version='0.2',
+    version='0.2.1',
     description='Tool for downloading only one file from huge zip without downloading whole file',
     author='Khylia Dmytro',
     author_email='demonukraine96@gmail.com',
